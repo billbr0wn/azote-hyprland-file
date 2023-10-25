@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+pkill swaybg
+swaybg -o 'HDMI-A-1' -i "/home/bill/Pictures/colours.jpeg" -m fill &\
+
+
+#rename  this file .azotebg-hyprland
